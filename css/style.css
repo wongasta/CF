@@ -1,0 +1,33 @@
+.gameName, .gameMeta{
+    text-align: center;
+    margin: 15px;
+    border: 2px solid #000;
+    padding: 10px;
+}
+
+#gameInput{
+    text-align: center;
+}
+
+.gameName{
+    font-size: 50px;
+}
+
+.gameModes{
+    font-size: 20px !important;
+}
+
+h2{
+    font-size: 16px;
+}
+
+table{
+    margin: 0 auto;
+}
+
+#refresh{
+    margin: 0 auto;
+    width: 200px;
+    height: 100px;
+    font-size: 40px;
+}
